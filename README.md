@@ -70,6 +70,7 @@ This list is a **community-driven effort** and we encourage:
 - **Tutanota** 🇩🇪: Secure and private. [Website](https://tutanota.com)
 - **Mailfence** 🇧🇪: Privacy-focused with additional features. [Website](https://mailfence.com)
 - **Posteo** 🇩🇪: Environmentally friendly and privacy-respecting. [Website](https://posteo.de)
+- **Migadu** 🇨🇭: Privacy-respecting and sensible billing plans based on email volume rather than alias or domain count (so unlimited addresses) [Migadu](https://migadu.com/)
 
 ## Search Engines
 - **Qwant** 🇫🇷: Privacy-focused, no tracking. [Website](https://qwant.com)
